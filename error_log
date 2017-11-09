@@ -1,0 +1,5 @@
+[17-Nov-2014 04:09:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/sumaka/public_html/hr-management/edit.php on line 558
+[01-Dec-2014 01:06:39 America/Chicago] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home2/sumaka/public_html/hr-management/timedetails.php on line 363
+[17-Dec-2014 01:20:36 America/Chicago] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/sumaka/public_html/hr-management/timedetails.php on line 144
+[17-Dec-2014 03:52:26 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/sumaka/public_html/hr-management/timedetails.php on line 144
+[17-Dec-2014 03:52:30 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/sumaka/public_html/hr-management/timedetails.php on line 144
